@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-tax-dart-mobile",
+  "capabilityKey": "planned:ecommerce:tax",
+  "presentation": "dart-mobile",
+  "package": "module_ecommerce_tax_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/ecommerce/nextjs/tax.md",
+  "presentationPlan": "projects/ecommerce/features/tax.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
